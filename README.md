@@ -1,2 +1,2 @@
-# my-first-weather-application
+# vanilla-weather-application
 Created with CodeSandbox
